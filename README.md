@@ -2,4 +2,4 @@
 my repository
 Hello
 This my read me edit
-I like any kind of Tacos!
+I like all kinds of Tacos!
